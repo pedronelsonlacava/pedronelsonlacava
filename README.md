@@ -1,5 +1,6 @@
 🌍
 🚀
+https://capsule-render.vercel.app/api?type=rect&height=316&color=gradient&text="BEM%20VINDO%20!"&fontAlign=51&fontAlignY=51
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
 
